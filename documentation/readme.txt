@@ -1,1 +1,0 @@
-This is only a testing protype of abm-Kedah through the implementation of HTML, CSS, JAVASCRIPT and Bootstrap5 framework
